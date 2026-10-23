@@ -1,0 +1,10 @@
+import { Router } from "express";
+import { SareeController } from '../controllers/SareeController.js';
+const router = Router();
+router.get("/", SareeController.getAllSarees);
+router.get("/:idOrSlug", SareeController.getSareeById);
+router.post("/", SareeController.createSaree);
+router.put("/:idOrSlug", SareeController.updateSaree);
+router.delete("/:idOrSlug", SareeController.deleteSaree);
+router.patch("/:idOrSlug/inventory", SareeController.updateInventory);
+export default router;

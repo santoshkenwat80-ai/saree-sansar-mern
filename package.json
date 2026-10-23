@@ -1,0 +1,11 @@
+{
+  "name": "saree-sansar-mern",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Saree Sansar — 100% Pure JavaScript MERN Stack E-Commerce Platform",
+  "scripts": {
+    "start:backend": "cd server && npm install && npm run dev",
+    "start:frontend": "cd client && npm install && npm run dev",
+    "start:all": "echo \"Please start server in one terminal and client in another terminal.\""
+  }
+}

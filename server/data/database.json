@@ -1,0 +1,1690 @@
+{
+  "products": [
+    {
+      "id": "prod-1",
+      "name": "Shahi Dulhan Crimson Banarasi Katan Silk Saree",
+      "slug": "shahi-dulhan-crimson-banarasi-katan-silk-saree",
+      "price": 18499,
+      "originalPrice": 24999,
+      "discountPercent": 26,
+      "description": "A masterpiece from the master looms of Varanasi. Handcrafted in pure Katan silk with intricate antique gold zardosi border and floral jaal detailing across the body. Designed for bridal grace and regal celebrations.",
+      "category": "banarasi-silk",
+      "fabric": "Banarasi Silk",
+      "color": "Crimson Maroon & Gold",
+      "colorHex": "#6b1426",
+      "occasion": "Bridal & Wedding",
+      "stock": 8,
+      "sku": "SS-BAN-001",
+      "images": [
+        "/src/assets/images/hero_banarasi_bridal_1791698980254.jpg",
+        "/src/assets/images/saree_kanjivaram_gold_1791698990300.jpg"
+      ],
+      "rating": 4.9,
+      "reviewsCount": 128,
+      "isFeatured": true,
+      "isBestSeller": true,
+      "isNewArrival": false,
+      "blousePieceIncluded": true,
+      "sareeLength": "5.5 meters saree + 0.8 meter unstitched blouse piece",
+      "careInstructions": "Strictly dry clean only. Wrap in muslin cloth when storing.",
+      "weavingTechnique": "Katan Silk Handloom",
+      "artisan": "Master Weaver Bismillah Ansari, Varanasi Looms",
+      "specifications": {
+        "Weave": "Handloom Katan Weave",
+        "Zari": "Antique Gold Tested Zari",
+        "Origin": "Varanasi, Uttar Pradesh",
+        "Weight": "880 grams",
+        "Blouse": "Matching heavy woven brocade"
+      },
+      "createdAt": "2026-09-01T10:00:00Z"
+    },
+    {
+      "id": "prod-2",
+      "name": "Mayil Emerald Kanchipuram Pure Mulberry Silk Saree",
+      "slug": "mayil-emerald-kanchipuram-pure-mulberry-silk-saree",
+      "price": 21999,
+      "originalPrice": 28999,
+      "discountPercent": 24,
+      "description": "Authentic Kanjivaram silk saree in rich deep emerald green with contrasting ruby red temple borders and opulent peacock (mayil) motifs handwoven using certified gold zari threads.",
+      "category": "kanjivaram-silk",
+      "fabric": "Kanjivaram Silk",
+      "color": "Emerald Green & Ruby Red",
+      "colorHex": "#0d5c3a",
+      "occasion": "Festive",
+      "stock": 5,
+      "sku": "SS-KAN-002",
+      "images": [
+        "/src/assets/images/saree_kanjivaram_gold_1791698990300.jpg",
+        "/src/assets/images/hero_banarasi_bridal_1791698980254.jpg"
+      ],
+      "rating": 5,
+      "reviewsCount": 94,
+      "isFeatured": true,
+      "isBestSeller": true,
+      "isNewArrival": true,
+      "blousePieceIncluded": true,
+      "sareeLength": "5.5 meters saree + 0.8 meter unstitched blouse piece",
+      "careInstructions": "Dry clean only. Avoid spraying perfumes directly on zari.",
+      "weavingTechnique": "Korvai Interlock",
+      "artisan": "Kanchipuram Temple Weavers Guild, Tamil Nadu",
+      "specifications": {
+        "Weave": "Korvai 3-ply Silk Weave",
+        "Zari": "Certified Pure Silk Mark & Heavy Zari",
+        "Origin": "Kanchipuram, Tamil Nadu",
+        "Weight": "920 grams",
+        "Blouse": "Ruby red with temple border"
+      },
+      "createdAt": "2026-09-12T10:00:00Z"
+    },
+    {
+      "id": "prod-3",
+      "name": "Gulabi Meera Pastel Tissue Chanderi Saree",
+      "slug": "gulabi-meera-pastel-tissue-chanderi-saree",
+      "price": 7499,
+      "originalPrice": 9999,
+      "discountPercent": 25,
+      "description": "Whisper-light Chanderi tissue silk saree in ethereal blush rose pink. Featuring miniature gold ashrafi bootis scattered throughout with a soft scalloped zari border. Effortlessly graceful for summer weddings and daytime receptions.",
+      "category": "chanderi-organza",
+      "fabric": "Chanderi",
+      "color": "Blush Rose Pink",
+      "colorHex": "#d89ba6",
+      "occasion": "Party Wear",
+      "stock": 13,
+      "sku": "SS-CHA-003",
+      "images": [
+        "/src/assets/images/saree_chanderi_pastel_1791699001746.jpg",
+        "/src/assets/images/saree_banarasi_blue_1791699014715.jpg"
+      ],
+      "rating": 4.8,
+      "reviewsCount": 67,
+      "isFeatured": true,
+      "isBestSeller": false,
+      "isNewArrival": true,
+      "blousePieceIncluded": true,
+      "sareeLength": "5.5 meters saree + 0.8 meter unstitched blouse piece",
+      "careInstructions": "Dry clean recommended. Gentle hand steam ironing.",
+      "weavingTechnique": "Chanderi Pattu & Gossamer",
+      "artisan": "Chanderi Heritage Weaver Society, Madhya Pradesh",
+      "specifications": {
+        "Weave": "Fine Handwoven Chanderi Pattu",
+        "Zari": "Light Gold Muted Sheen",
+        "Origin": "Chanderi, Madhya Pradesh",
+        "Weight": "450 grams",
+        "Blouse": "Tonal silk with booti work"
+      },
+      "createdAt": "2026-09-20T10:00:00Z"
+    },
+    {
+      "id": "prod-4",
+      "name": "Neelambari Royal Blue Banarasi Georgette Jaal Saree",
+      "slug": "neelambari-royal-blue-banarasi-georgette-jaal-saree",
+      "price": 13999,
+      "originalPrice": 17999,
+      "discountPercent": 22,
+      "description": "Drape in royal luxury with this midnight navy blue pure Banarasi georgette saree. Adorned with intricate antique silver floral jaal weaving and scalloped pallu borders. Extremely supple, wrinkle-resistant, and photogenic.",
+      "category": "georgette-chiffon",
+      "fabric": "Georgette",
+      "color": "Royal Navy Blue & Silver",
+      "colorHex": "#14234b",
+      "occasion": "Party Wear",
+      "stock": 11,
+      "sku": "SS-GEO-004",
+      "images": [
+        "/src/assets/images/saree_banarasi_blue_1791699014715.jpg",
+        "/src/assets/images/hero_banarasi_bridal_1791698980254.jpg"
+      ],
+      "rating": 4.9,
+      "reviewsCount": 82,
+      "isFeatured": true,
+      "isBestSeller": true,
+      "isNewArrival": false,
+      "blousePieceIncluded": true,
+      "sareeLength": "5.5 meters saree + 0.8 meter unstitched blouse piece",
+      "careInstructions": "Dry clean only.",
+      "weavingTechnique": "Khaddi Georgette",
+      "artisan": "Banarasi Khaddi Georgette Weavers Collective",
+      "specifications": {
+        "Weave": "Banarasi Khaddi Georgette",
+        "Zari": "Antique Silver Rupa Zari",
+        "Origin": "Varanasi, Uttar Pradesh",
+        "Weight": "620 grams",
+        "Blouse": "Navy brocade with matching border"
+      },
+      "createdAt": "2026-09-25T10:00:00Z"
+    },
+    {
+      "id": "prod-5",
+      "name": "Rajkumari Scarlet Banarasi Jangla Bridal Silk Saree",
+      "slug": "rajkumari-scarlet-banarasi-jangla-bridal-silk-saree",
+      "price": 24999,
+      "originalPrice": 32000,
+      "discountPercent": 22,
+      "description": "Heritage Jangla weaving in deep scarlet red. The all-over gold hunting and floral motifs represent the peak of Banarasi artisanal craftsmanship. Reserved for connoisseurs of authentic bridal trousseau.",
+      "category": "bridal-heritage",
+      "fabric": "Banarasi Silk",
+      "color": "Scarlet Red & Royal Gold",
+      "colorHex": "#881930",
+      "occasion": "Bridal & Wedding",
+      "stock": 4,
+      "sku": "SS-BRI-005",
+      "images": [
+        "/src/assets/images/hero_banarasi_bridal_1791698980254.jpg",
+        "/src/assets/images/saree_kanjivaram_gold_1791698990300.jpg"
+      ],
+      "rating": 5,
+      "reviewsCount": 45,
+      "isFeatured": false,
+      "isBestSeller": false,
+      "isNewArrival": true,
+      "blousePieceIncluded": true,
+      "sareeLength": "5.5 meters saree + 0.8 meter unstitched blouse piece",
+      "careInstructions": "Preserve with natural neem leaves and dry clean only.",
+      "weavingTechnique": "Kadwa Brocade",
+      "artisan": "Master Weaver Bismillah Ansari, Varanasi Looms",
+      "specifications": {
+        "Weave": "Pure Kadwa Jangla Handloom",
+        "Zari": "24K Micron Gold Electroplated Zari",
+        "Origin": "Varanasi, Uttar Pradesh",
+        "Weight": "980 grams",
+        "Blouse": "Rich Kadwa woven brocade"
+      },
+      "createdAt": "2026-10-01T10:00:00Z"
+    },
+    {
+      "id": "prod-6",
+      "name": "Svarnam Antique Mustard Kanjivaram Brocade Saree",
+      "slug": "svarnam-antique-mustard-kanjivaram-brocade-saree",
+      "price": 16999,
+      "originalPrice": 21999,
+      "discountPercent": 23,
+      "description": "Luminous antique mustard yellow Kanjivaram saree with contrasting magenta pink pallu and elephant rudraksh border. Ideal for auspicious morning rituals and traditional pujas.",
+      "category": "kanjivaram-silk",
+      "fabric": "Kanjivaram Silk",
+      "color": "Mustard Yellow & Magenta",
+      "colorHex": "#c59b27",
+      "occasion": "Traditional Pooja",
+      "stock": 7,
+      "sku": "SS-KAN-006",
+      "images": [
+        "/src/assets/images/saree_kanjivaram_gold_1791698990300.jpg",
+        "/src/assets/images/saree_banarasi_blue_1791699014715.jpg"
+      ],
+      "rating": 4.7,
+      "reviewsCount": 39,
+      "isFeatured": false,
+      "isBestSeller": true,
+      "isNewArrival": false,
+      "blousePieceIncluded": true,
+      "sareeLength": "5.5 meters saree + 0.8 meter unstitched blouse piece",
+      "careInstructions": "Dry clean only.",
+      "weavingTechnique": "Jacquard & Zari",
+      "artisan": "Kanchipuram Temple Weavers Guild, Tamil Nadu",
+      "specifications": {
+        "Weave": "Traditional Kanchi Jacquard Weave",
+        "Zari": "Dual-tone gold zari",
+        "Origin": "Kanchipuram, Tamil Nadu",
+        "Weight": "850 grams",
+        "Blouse": "Magenta unstitched silk piece"
+      },
+      "createdAt": "2026-09-18T10:00:00Z"
+    },
+    {
+      "id": "prod-7",
+      "name": "Padmavati Ivory Jamdani Muslin Handloom Cotton Saree",
+      "slug": "padmavati-ivory-jamdani-muslin-handloom-cotton-saree",
+      "price": 6899,
+      "originalPrice": 9499,
+      "discountPercent": 27,
+      "description": "Authentic Jamdani hand-woven muslin cotton saree in celestial ivory white with antique gold thread floral vine motifs. Featherlight, breathable, and woven on traditional pit looms.",
+      "category": "handloom-cotton",
+      "fabric": "Cotton Silk",
+      "color": "Ivory White & Gold",
+      "colorHex": "#fcf8ec",
+      "occasion": "Casual",
+      "stock": 10,
+      "sku": "SS-JAM-007",
+      "images": [
+        "/src/assets/images/saree_chanderi_pastel_1791699001746.jpg",
+        "/src/assets/images/hero_banarasi_bridal_1791698980254.jpg"
+      ],
+      "rating": 4.8,
+      "reviewsCount": 52,
+      "isFeatured": true,
+      "isBestSeller": false,
+      "isNewArrival": true,
+      "blousePieceIncluded": true,
+      "sareeLength": "5.5 meters saree + 0.8 meter unstitched blouse piece",
+      "careInstructions": "Gentle hand wash in cold water or dry clean.",
+      "weavingTechnique": "Jamdani Handloom",
+      "artisan": "Bengal Jamdani Artisan Cooperative",
+      "specifications": {
+        "Weave": "Jamdani Supplementary Weft Handloom",
+        "Origin": "Phulia & Shantipur, West Bengal",
+        "Zari": "Fine Muted Gold Zari",
+        "Weight": "380 grams",
+        "Blouse": "Ivory cotton with gold border"
+      },
+      "createdAt": "2026-10-05T10:00:00Z"
+    },
+    {
+      "id": "prod-8",
+      "name": "Roopmati Rani Pink Paithani Pure Silk Saree",
+      "slug": "roopmati-rani-pink-paithani-pure-silk-saree",
+      "price": 31999,
+      "originalPrice": 42000,
+      "discountPercent": 24,
+      "description": "Prestigious Yeola Paithani handloom saree in radiant rani pink silk with signature kaleidoscopic peacock (morpankhi) pallu woven in genuine gold zari and oblique kaleidoscopic border.",
+      "category": "bridal-heritage",
+      "fabric": "Pure Silk",
+      "color": "Rani Pink & Gold",
+      "colorHex": "#c2185b",
+      "occasion": "Bridal & Wedding",
+      "stock": 1,
+      "sku": "SS-PAI-008",
+      "images": [
+        "/src/assets/images/hero_banarasi_bridal_1791698980254.jpg",
+        "/src/assets/images/saree_kanjivaram_gold_1791698990300.jpg"
+      ],
+      "rating": 5,
+      "reviewsCount": 38,
+      "isFeatured": true,
+      "isBestSeller": true,
+      "isNewArrival": false,
+      "blousePieceIncluded": true,
+      "sareeLength": "5.5 meters saree + 0.8 meter unstitched blouse piece",
+      "careInstructions": "Specialist dry clean only. Store in pure cotton bag.",
+      "weavingTechnique": "Kadwa Brocade",
+      "artisan": "Yeola Paithani Artisan Guild, Maharashtra",
+      "specifications": {
+        "Weave": "Tapestry Weave with Real Zari Pallu",
+        "Origin": "Yeola, Maharashtra",
+        "Zari": "Pure Metallic Gold Tested Zari",
+        "Weight": "940 grams",
+        "Blouse": "Rani pink silk with peacock border"
+      },
+      "createdAt": "2026-10-08T10:00:00Z"
+    }
+  ],
+  "categories": [
+    {
+      "id": "cat-banarasi",
+      "name": "Banarasi Silk",
+      "slug": "banarasi-silk",
+      "description": "Centuries-old royal weaving from Varanasi with exquisite real zari motifs and timeless elegance.",
+      "image": "/src/assets/images/hero_banarasi_bridal_1791698980254.jpg",
+      "productCount": 14,
+      "tagline": "Imperial Majesty from Varanasi"
+    },
+    {
+      "id": "cat-kanjivaram",
+      "name": "Kanjivaram Silk",
+      "slug": "kanjivaram-silk",
+      "description": "Heirloom South Indian temple silks handwoven in Kanchipuram with pure mulberry threads.",
+      "image": "/src/assets/images/saree_kanjivaram_gold_1791698990300.jpg",
+      "productCount": 18,
+      "tagline": "Temple Zari & Heavy Brocade"
+    },
+    {
+      "id": "cat-chanderi",
+      "name": "Chanderi & Organza",
+      "slug": "chanderi-organza",
+      "description": "Feather-light sheer weaves from Madhya Pradesh adorned with golden buttis and pastel charm.",
+      "image": "/src/assets/images/saree_chanderi_pastel_1791699001746.jpg",
+      "productCount": 12,
+      "tagline": "Graceful Sheer Gossamer"
+    },
+    {
+      "id": "cat-georgette",
+      "name": "Georgette & Chiffon",
+      "slug": "georgette-chiffon",
+      "description": "Flowing contemporary drapes with delicate sequins, zari borders, and effortless pleats.",
+      "image": "/src/assets/images/saree_banarasi_blue_1791699014715.jpg",
+      "productCount": 16,
+      "tagline": "Modern Elegance in Motion"
+    },
+    {
+      "id": "cat-bridal",
+      "name": "Bridal Heritage",
+      "slug": "bridal-heritage",
+      "description": "Grand trousseau masterpieces featuring heavy hand zardosi, antique brocade, and vermillion hues.",
+      "image": "/src/assets/images/hero_banarasi_bridal_1791698980254.jpg",
+      "productCount": 9,
+      "tagline": "The Ultimate Wedding Legacy"
+    },
+    {
+      "id": "cat-cotton",
+      "name": "Handloom Cotton",
+      "slug": "handloom-cotton",
+      "description": "Breathable artisanal cottons, Jamdani, and linen weaves for mindful everyday royalty.",
+      "image": "/src/assets/images/saree_chanderi_pastel_1791699001746.jpg",
+      "productCount": 15,
+      "tagline": "Pure Comfort, Pure Craft"
+    }
+  ],
+  "users": [
+    {
+      "id": "usr-customer-1",
+      "name": "Priyanka Sharma",
+      "email": "priyanka@sareesansar.com",
+      "password": "Customer@2026",
+      "phone": "9876543210",
+      "role": "customer",
+      "createdAt": "2026-08-15T09:00:00Z",
+      "addresses": [
+        {
+          "id": "addr-1",
+          "fullName": "Priyanka Sharma",
+          "phone": "9876543210",
+          "pincode": "110001",
+          "state": "Delhi",
+          "city": "New Delhi",
+          "locality": "Connaught Place",
+          "addressLine": "Flat 402, Regalia Heights, Barakhamba Road",
+          "landmark": "Near Metro Gate 3",
+          "isDefault": true,
+          "type": "HOME"
+        }
+      ]
+    },
+    {
+      "id": "usr-admin-1",
+      "name": "Ananya Singhania (Store Manager)",
+      "email": "admin@sareesansar.com",
+      "password": "Admin@2026",
+      "phone": "9811122233",
+      "role": "admin",
+      "createdAt": "2026-01-01T00:00:00Z",
+      "addresses": [],
+      "alternatePhone": "",
+      "avatar": "av-1",
+      "gender": "female",
+      "dateOfBirth": "",
+      "anniversary": "",
+      "preferences": {
+        "whatsappAlerts": true,
+        "smsTracking": true,
+        "newsletter": true
+      }
+    },
+    {
+      "id": "usr-1791875619329",
+      "name": "Anjali Verma",
+      "email": "anjali.verma@example.com",
+      "password": "Anjali@2026",
+      "phone": "9812345678",
+      "role": "customer",
+      "createdAt": "2026-10-13T07:13:39.329Z",
+      "addresses": [
+        {
+          "id": "addr-1791875619330",
+          "fullName": "Anjali Verma",
+          "phone": "9812345678",
+          "pincode": "110001",
+          "state": "Delhi",
+          "city": "New Delhi",
+          "locality": "Connaught Place",
+          "addressLine": "Block C, Radial Road 2",
+          "isDefault": true,
+          "type": "HOME"
+        }
+      ]
+    },
+    {
+      "id": "usr-1792147457957",
+      "name": "Sneha Roy",
+      "email": "sneha@gmail.com",
+      "password": "NewSecurePass@2026",
+      "phone": "9822334455",
+      "isPhoneVerified": true,
+      "isEmailVerified": true,
+      "role": "customer",
+      "createdAt": "2026-10-16T10:44:17.958Z",
+      "addresses": [
+        {
+          "id": "addr-1792147457958",
+          "fullName": "Sneha Roy",
+          "phone": "9822334455",
+          "pincode": "110001",
+          "state": "Delhi",
+          "city": "New Delhi",
+          "locality": "Connaught Place",
+          "addressLine": "Block C, Radial Road 2",
+          "isDefault": true,
+          "type": "HOME"
+        }
+      ]
+    },
+    {
+      "id": "usr-1792148188845",
+      "name": "Santosh Kumar Kenwat",
+      "email": "skenwat367@gmail.com",
+      "password": "123456",
+      "phone": "6267961163",
+      "isPhoneVerified": true,
+      "isEmailVerified": true,
+      "role": "customer",
+      "createdAt": "2026-10-16T10:56:28.845Z",
+      "addresses": [
+        {
+          "id": "addr-1792148391164",
+          "fullName": "Santosh Kumar Kenwat",
+          "phone": "6267961163",
+          "alternatePhone": "",
+          "pincode": "495687",
+          "state": "Chhattisgarh",
+          "city": "Champa",
+          "locality": "Darang",
+          "addressLine": "Village -Darang , Post-Darang , Dist-Janjgir-Champa ,Chhattisgarh.",
+          "landmark": "Near Temple",
+          "isDefault": true,
+          "type": "HOME"
+        }
+      ]
+    },
+    {
+      "id": "usr-santosh-2",
+      "name": "Santosh Kumar Kenwat",
+      "email": "santoshkumarkenwat2@gmail.com",
+      "password": "123456",
+      "phone": "6267961163",
+      "isPhoneVerified": true,
+      "isEmailVerified": true,
+      "role": "customer",
+      "createdAt": "2026-10-17T11:33:35.304Z",
+      "addresses": [
+        {
+          "id": "addr-1792148391164",
+          "fullName": "Santosh Kumar Kenwat",
+          "phone": "6267961163",
+          "alternatePhone": "",
+          "pincode": "495687",
+          "state": "Chhattisgarh",
+          "city": "Champa",
+          "locality": "Darang",
+          "addressLine": "Village -Darang , Post-Darang , Dist-Janjgir-Champa ,Chhattisgarh.",
+          "landmark": "",
+          "isDefault": true,
+          "type": "HOME"
+        }
+      ]
+    },
+    {
+      "id": "usr-1792472992291",
+      "name": "Sonu kenwat",
+      "email": "6267948810@sareesansar.patron",
+      "phone": "6267948810",
+      "isPhoneVerified": true,
+      "isEmailVerified": false,
+      "role": "customer",
+      "createdAt": "2026-10-20T05:09:52.291Z",
+      "addresses": [
+        {
+          "fullName": "Sonu kenwat",
+          "phone": "6267948810",
+          "pincode": "495687",
+          "state": "Chattisgarh",
+          "city": "Janjgir-champa",
+          "locality": "Janjgir-champa",
+          "addressLine": "Village -Darang , Post-Darang , Dist-Janjgir-Champa ,Chhattisgarh.",
+          "type": "HOME",
+          "isDefault": true,
+          "id": "addr-1792472992291",
+          "verifiedAt": "2026-10-20T05:09:52.291Z"
+        }
+      ]
+    }
+  ],
+  "orders": [
+    {
+      "id": "ord-1792649071573",
+      "orderNumber": "SS-ORD-9478",
+      "userId": "usr-1792148188845",
+      "userEmail": "skenwat367@gmail.com",
+      "userName": "Santosh Kumar Kenwat",
+      "items": [
+        {
+          "id": "item-1792648972339-oj08",
+          "productId": "prod-8",
+          "product": {
+            "id": "prod-8",
+            "name": "Roopmati Rani Pink Paithani Pure Silk Saree",
+            "slug": "roopmati-rani-pink-paithani-pure-silk-saree",
+            "price": 31999,
+            "originalPrice": 42000,
+            "discountPercent": 24,
+            "description": "Prestigious Yeola Paithani handloom saree in radiant rani pink silk with signature kaleidoscopic peacock (morpankhi) pallu woven in genuine gold zari and oblique kaleidoscopic border.",
+            "category": "bridal-heritage",
+            "fabric": "Pure Silk",
+            "color": "Rani Pink & Gold",
+            "colorHex": "#c2185b",
+            "occasion": "Bridal & Wedding",
+            "stock": 2,
+            "sku": "SS-PAI-008",
+            "images": [
+              "/src/assets/images/hero_banarasi_bridal_1791698980254.jpg",
+              "/src/assets/images/saree_kanjivaram_gold_1791698990300.jpg"
+            ],
+            "rating": 5,
+            "reviewsCount": 38,
+            "isFeatured": true,
+            "isBestSeller": true,
+            "isNewArrival": false,
+            "blousePieceIncluded": true,
+            "sareeLength": "5.5 meters saree + 0.8 meter unstitched blouse piece",
+            "careInstructions": "Specialist dry clean only. Store in pure cotton bag.",
+            "weavingTechnique": "Kadwa Brocade",
+            "artisan": "Yeola Paithani Artisan Guild, Maharashtra",
+            "specifications": {
+              "Weave": "Tapestry Weave with Real Zari Pallu",
+              "Origin": "Yeola, Maharashtra",
+              "Zari": "Pure Metallic Gold Tested Zari",
+              "Weight": "940 grams",
+              "Blouse": "Rani pink silk with peacock border"
+            },
+            "createdAt": "2026-10-08T10:00:00Z"
+          },
+          "quantity": 1,
+          "selectedBlouseOption": "Unstitched Fabric (Included)"
+        },
+        {
+          "id": "item-1792649059744-t1uw",
+          "productId": "prod-7",
+          "product": {
+            "id": "prod-7",
+            "name": "Padmavati Ivory Jamdani Muslin Handloom Cotton Saree",
+            "slug": "padmavati-ivory-jamdani-muslin-handloom-cotton-saree",
+            "price": 6899,
+            "originalPrice": 9499,
+            "discountPercent": 27,
+            "description": "Authentic Jamdani hand-woven muslin cotton saree in celestial ivory white with antique gold thread floral vine motifs. Featherlight, breathable, and woven on traditional pit looms.",
+            "category": "handloom-cotton",
+            "fabric": "Cotton Silk",
+            "color": "Ivory White & Gold",
+            "colorHex": "#fcf8ec",
+            "occasion": "Casual",
+            "stock": 11,
+            "sku": "SS-JAM-007",
+            "images": [
+              "/src/assets/images/saree_chanderi_pastel_1791699001746.jpg",
+              "/src/assets/images/hero_banarasi_bridal_1791698980254.jpg"
+            ],
+            "rating": 4.8,
+            "reviewsCount": 52,
+            "isFeatured": true,
+            "isBestSeller": false,
+            "isNewArrival": true,
+            "blousePieceIncluded": true,
+            "sareeLength": "5.5 meters saree + 0.8 meter unstitched blouse piece",
+            "careInstructions": "Gentle hand wash in cold water or dry clean.",
+            "weavingTechnique": "Jamdani Handloom",
+            "artisan": "Bengal Jamdani Artisan Cooperative",
+            "specifications": {
+              "Weave": "Jamdani Supplementary Weft Handloom",
+              "Origin": "Phulia & Shantipur, West Bengal",
+              "Zari": "Fine Muted Gold Zari",
+              "Weight": "380 grams",
+              "Blouse": "Ivory cotton with gold border"
+            },
+            "createdAt": "2026-10-05T10:00:00Z"
+          },
+          "quantity": 1,
+          "selectedBlouseOption": "Unstitched Fabric (Included)"
+        }
+      ],
+      "subtotal": 38898,
+      "discount": 0,
+      "shippingFee": 0,
+      "tax": 1945,
+      "totalAmount": 40843,
+      "paymentMethod": "UPI",
+      "paymentStatus": "PAID",
+      "orderStatus": "SHIPPED",
+      "shippingAddress": {
+        "id": "addr-1792148391164",
+        "fullName": "Santosh Kumar Kenwat",
+        "phone": "6267961163",
+        "alternatePhone": "",
+        "pincode": "495687",
+        "state": "Chhattisgarh",
+        "city": "Champa",
+        "locality": "Darang",
+        "addressLine": "Village -Darang , Post-Darang , Dist-Janjgir-Champa ,Chhattisgarh.",
+        "landmark": "Near Temple",
+        "isDefault": true,
+        "type": "HOME"
+      },
+      "trackingNumber": "UPI-EXP-9394022",
+      "courierPartner": "BlueDart Air Express",
+      "estimatedDelivery": "2026-10-26",
+      "timeline": [
+        {
+          "status": "PLACED",
+          "title": "UPI Payment Confirmed",
+          "description": "Payment captured via UPI (patron@ybl). Transaction Ref: UPI-TXN-1792649071486",
+          "timestamp": "22/10/2026, 11:34:31 am",
+          "completed": true
+        },
+        {
+          "status": "CONFIRMED",
+          "title": "Order Confirmed",
+          "description": "Direct priority packaging assigned.",
+          "timestamp": "22/10/2026, 11:34:31 am",
+          "completed": true
+        },
+        {
+          "status": "PACKED",
+          "title": "Packaging & Silk Mark Inspection",
+          "description": "Luxury muslin folding and Silk Mark verification.",
+          "timestamp": "Pending",
+          "completed": false
+        },
+        {
+          "status": "SHIPPED",
+          "title": "Dispatched with BlueDart Express",
+          "description": "Air express courier assigned.",
+          "timestamp": "22/10/2026, 11:34:55 am",
+          "completed": true
+        },
+        {
+          "status": "DELIVERED",
+          "title": "Delivered",
+          "description": "Handed over to customer.",
+          "timestamp": "Pending",
+          "completed": false
+        }
+      ],
+      "createdAt": "2026-10-22T06:04:31.648Z"
+    },
+    {
+      "id": "ord-1792474275067",
+      "orderNumber": "SS-ORD-8039",
+      "userId": "usr-1792472992291",
+      "userEmail": "6267948810@sareesansar.patron",
+      "userName": "Sonu kenwat",
+      "items": [
+        {
+          "id": "item-1792474267472-x9w1",
+          "productId": "prod-7",
+          "product": {
+            "id": "prod-7",
+            "name": "Padmavati Ivory Jamdani Muslin Handloom Cotton Saree",
+            "slug": "padmavati-ivory-jamdani-muslin-handloom-cotton-saree",
+            "price": 6899,
+            "originalPrice": 9499,
+            "discountPercent": 27,
+            "description": "Authentic Jamdani hand-woven muslin cotton saree in celestial ivory white with antique gold thread floral vine motifs. Featherlight, breathable, and woven on traditional pit looms.",
+            "category": "handloom-cotton",
+            "fabric": "Cotton Silk",
+            "color": "Ivory White & Gold",
+            "colorHex": "#fcf8ec",
+            "occasion": "Casual",
+            "stock": 12,
+            "sku": "SS-JAM-007",
+            "images": [
+              "/src/assets/images/saree_chanderi_pastel_1791699001746.jpg",
+              "/src/assets/images/hero_banarasi_bridal_1791698980254.jpg"
+            ],
+            "rating": 4.8,
+            "reviewsCount": 52,
+            "isFeatured": true,
+            "isBestSeller": false,
+            "isNewArrival": true,
+            "blousePieceIncluded": true,
+            "sareeLength": "5.5 meters saree + 0.8 meter unstitched blouse piece",
+            "careInstructions": "Gentle hand wash in cold water or dry clean.",
+            "weavingTechnique": "Jamdani Handloom",
+            "artisan": "Bengal Jamdani Artisan Cooperative",
+            "specifications": {
+              "Weave": "Jamdani Supplementary Weft Handloom",
+              "Origin": "Phulia & Shantipur, West Bengal",
+              "Zari": "Fine Muted Gold Zari",
+              "Weight": "380 grams",
+              "Blouse": "Ivory cotton with gold border"
+            },
+            "createdAt": "2026-10-05T10:00:00Z"
+          },
+          "quantity": 1,
+          "selectedBlouseOption": "Unstitched Fabric (Included)"
+        }
+      ],
+      "subtotal": 6899,
+      "discount": 0,
+      "shippingFee": 0,
+      "tax": 345,
+      "totalAmount": 7244,
+      "paymentMethod": "UPI",
+      "paymentStatus": "PAID",
+      "orderStatus": "DELIVERED",
+      "shippingAddress": {
+        "fullName": "Sonu kenwat",
+        "phone": "6267948810",
+        "pincode": "495687",
+        "state": "Chattisgarh",
+        "city": "Janjgir-champa",
+        "locality": "Janjgir-champa",
+        "addressLine": "Village -Darang , Post-Darang , Dist-Janjgir-Champa ,Chhattisgarh.",
+        "type": "HOME",
+        "isDefault": true,
+        "id": "addr-1792472992291",
+        "verifiedAt": "2026-10-20T05:09:52.291Z"
+      },
+      "trackingNumber": "UPI-EXP-4633330",
+      "courierPartner": "BlueDart Air Express",
+      "estimatedDelivery": "2026-10-24",
+      "timeline": [
+        {
+          "status": "PLACED",
+          "title": "UPI Payment Confirmed",
+          "description": "Payment captured via UPI (sareesansar@okaxis). Transaction Ref: UPI-TXN-1792474274979",
+          "timestamp": "20/10/2026, 11:01:15 am",
+          "completed": true
+        },
+        {
+          "status": "CONFIRMED",
+          "title": "Order Confirmed",
+          "description": "Direct priority packaging assigned.",
+          "timestamp": "20/10/2026, 11:01:15 am",
+          "completed": true
+        },
+        {
+          "status": "PACKED",
+          "title": "Packaging & Silk Mark Inspection",
+          "description": "Luxury muslin folding and Silk Mark verification.",
+          "timestamp": "Pending",
+          "completed": false
+        },
+        {
+          "status": "SHIPPED",
+          "title": "Dispatched with BlueDart Express",
+          "description": "Air express courier assigned.",
+          "timestamp": "20/10/2026, 11:01:42 am",
+          "completed": true
+        },
+        {
+          "status": "DELIVERED",
+          "title": "Delivered",
+          "description": "Handed over to customer.",
+          "timestamp": "20/10/2026, 11:20:59 am",
+          "completed": true
+        }
+      ],
+      "createdAt": "2026-10-20T05:31:15.135Z"
+    },
+    {
+      "id": "ord-1792473046410",
+      "orderNumber": "SS-ORD-6495",
+      "userId": "usr-1792472992291",
+      "userEmail": "6267948810@sareesansar.patron",
+      "userName": "Sonu kenwat",
+      "items": [
+        {
+          "id": "item-1792473026302-td2v",
+          "productId": "prod-8",
+          "product": {
+            "id": "prod-8",
+            "name": "Roopmati Rani Pink Paithani Pure Silk Saree",
+            "slug": "roopmati-rani-pink-paithani-pure-silk-saree",
+            "price": 31999,
+            "originalPrice": 42000,
+            "discountPercent": 24,
+            "description": "Prestigious Yeola Paithani handloom saree in radiant rani pink silk with signature kaleidoscopic peacock (morpankhi) pallu woven in genuine gold zari and oblique kaleidoscopic border.",
+            "category": "bridal-heritage",
+            "fabric": "Pure Silk",
+            "color": "Rani Pink & Gold",
+            "colorHex": "#c2185b",
+            "occasion": "Bridal & Wedding",
+            "stock": 3,
+            "sku": "SS-PAI-008",
+            "images": [
+              "/src/assets/images/hero_banarasi_bridal_1791698980254.jpg",
+              "/src/assets/images/saree_kanjivaram_gold_1791698990300.jpg"
+            ],
+            "rating": 5,
+            "reviewsCount": 38,
+            "isFeatured": true,
+            "isBestSeller": true,
+            "isNewArrival": false,
+            "blousePieceIncluded": true,
+            "sareeLength": "5.5 meters saree + 0.8 meter unstitched blouse piece",
+            "careInstructions": "Specialist dry clean only. Store in pure cotton bag.",
+            "weavingTechnique": "Kadwa Brocade",
+            "artisan": "Yeola Paithani Artisan Guild, Maharashtra",
+            "specifications": {
+              "Weave": "Tapestry Weave with Real Zari Pallu",
+              "Origin": "Yeola, Maharashtra",
+              "Zari": "Pure Metallic Gold Tested Zari",
+              "Weight": "940 grams",
+              "Blouse": "Rani pink silk with peacock border"
+            },
+            "createdAt": "2026-10-08T10:00:00Z"
+          },
+          "quantity": 1,
+          "selectedBlouseOption": "Unstitched Fabric (Included)"
+        }
+      ],
+      "subtotal": 31999,
+      "discount": 0,
+      "shippingFee": 0,
+      "tax": 1600,
+      "totalAmount": 33599,
+      "paymentMethod": "UPI",
+      "paymentStatus": "PAID",
+      "orderStatus": "DELIVERED",
+      "shippingAddress": {
+        "fullName": "Sonu kenwat",
+        "phone": "6267948810",
+        "pincode": "495687",
+        "state": "Chattisgarh",
+        "city": "Janjgir-champa",
+        "locality": "Janjgir-champa",
+        "addressLine": "Village -Darang , Post-Darang , Dist-Janjgir-Champa ,Chhattisgarh.",
+        "type": "HOME",
+        "isDefault": true,
+        "id": "addr-1792472992291",
+        "verifiedAt": "2026-10-20T05:09:52.291Z"
+      },
+      "trackingNumber": "UPI-EXP-7312777",
+      "courierPartner": "BlueDart Air Express",
+      "estimatedDelivery": "2026-10-24",
+      "timeline": [
+        {
+          "status": "PLACED",
+          "title": "UPI Payment Confirmed",
+          "description": "Payment captured via UPI (patron@ybl). Transaction Ref: UPI-TXN-1792473046339",
+          "timestamp": "20/10/2026, 10:40:46 am",
+          "completed": true
+        },
+        {
+          "status": "CONFIRMED",
+          "title": "Order Confirmed",
+          "description": "Direct priority packaging assigned.",
+          "timestamp": "20/10/2026, 10:40:46 am",
+          "completed": true
+        },
+        {
+          "status": "PACKED",
+          "title": "Packaging & Silk Mark Inspection",
+          "description": "Luxury muslin folding and Silk Mark verification.",
+          "timestamp": "Pending",
+          "completed": false
+        },
+        {
+          "status": "SHIPPED",
+          "title": "Dispatched with BlueDart Express",
+          "description": "Air express courier assigned.",
+          "timestamp": "20/10/2026, 10:41:36 am",
+          "completed": true
+        },
+        {
+          "status": "DELIVERED",
+          "title": "Delivered",
+          "description": "Handed over to customer.",
+          "timestamp": "20/10/2026, 10:42:10 am",
+          "completed": true
+        }
+      ],
+      "createdAt": "2026-10-20T05:10:46.479Z"
+    },
+    {
+      "id": "ord-1792472671363",
+      "orderNumber": "SS-ORD-9635",
+      "userId": "usr-1792148188845",
+      "userEmail": "skenwat367@gmail.com",
+      "userName": "Santosh Kumar Kenwat",
+      "items": [
+        {
+          "id": "item-1792472659217-hovm",
+          "productId": "prod-3",
+          "product": {
+            "id": "prod-3",
+            "name": "Gulabi Meera Pastel Tissue Chanderi Saree",
+            "slug": "gulabi-meera-pastel-tissue-chanderi-saree",
+            "price": 7499,
+            "originalPrice": 9999,
+            "discountPercent": 25,
+            "description": "Whisper-light Chanderi tissue silk saree in ethereal blush rose pink. Featuring miniature gold ashrafi bootis scattered throughout with a soft scalloped zari border. Effortlessly graceful for summer weddings and daytime receptions.",
+            "category": "chanderi-organza",
+            "fabric": "Chanderi",
+            "color": "Blush Rose Pink",
+            "colorHex": "#d89ba6",
+            "occasion": "Party Wear",
+            "stock": 14,
+            "sku": "SS-CHA-003",
+            "images": [
+              "/src/assets/images/saree_chanderi_pastel_1791699001746.jpg",
+              "/src/assets/images/saree_banarasi_blue_1791699014715.jpg"
+            ],
+            "rating": 4.8,
+            "reviewsCount": 67,
+            "isFeatured": true,
+            "isBestSeller": false,
+            "isNewArrival": true,
+            "blousePieceIncluded": true,
+            "sareeLength": "5.5 meters saree + 0.8 meter unstitched blouse piece",
+            "careInstructions": "Dry clean recommended. Gentle hand steam ironing.",
+            "weavingTechnique": "Chanderi Pattu & Gossamer",
+            "artisan": "Chanderi Heritage Weaver Society, Madhya Pradesh",
+            "specifications": {
+              "Weave": "Fine Handwoven Chanderi Pattu",
+              "Zari": "Light Gold Muted Sheen",
+              "Origin": "Chanderi, Madhya Pradesh",
+              "Weight": "450 grams",
+              "Blouse": "Tonal silk with booti work"
+            },
+            "createdAt": "2026-09-20T10:00:00Z"
+          },
+          "quantity": 1,
+          "selectedBlouseOption": "Unstitched Fabric (Included)"
+        }
+      ],
+      "subtotal": 7499,
+      "discount": 0,
+      "shippingFee": 0,
+      "tax": 375,
+      "totalAmount": 7874,
+      "paymentMethod": "UPI",
+      "paymentStatus": "PAID",
+      "orderStatus": "DELIVERED",
+      "shippingAddress": {
+        "id": "addr-1792148391164",
+        "fullName": "Santosh Kumar Kenwat",
+        "phone": "6267961163",
+        "alternatePhone": "",
+        "pincode": "495687",
+        "state": "Chhattisgarh",
+        "city": "Champa",
+        "locality": "Darang",
+        "addressLine": "Village -Darang , Post-Darang , Dist-Janjgir-Champa ,Chhattisgarh.",
+        "landmark": "Near Temple",
+        "isDefault": true,
+        "type": "HOME"
+      },
+      "trackingNumber": "UPI-EXP-4800907",
+      "courierPartner": "BlueDart Air Express",
+      "estimatedDelivery": "2026-10-24",
+      "timeline": [
+        {
+          "status": "PLACED",
+          "title": "UPI Payment Confirmed",
+          "description": "Payment captured via UPI (patron@ybl). Transaction Ref: UPI-TXN-1792472671256",
+          "timestamp": "20/10/2026, 10:34:31 am",
+          "completed": true
+        },
+        {
+          "status": "CONFIRMED",
+          "title": "Order Confirmed",
+          "description": "Direct priority packaging assigned.",
+          "timestamp": "20/10/2026, 10:34:31 am",
+          "completed": true
+        },
+        {
+          "status": "PACKED",
+          "title": "Packaging & Silk Mark Inspection",
+          "description": "Luxury muslin folding and Silk Mark verification.",
+          "timestamp": "Pending",
+          "completed": false
+        },
+        {
+          "status": "SHIPPED",
+          "title": "Dispatched with BlueDart Express",
+          "description": "Air express courier assigned.",
+          "timestamp": "20/10/2026, 10:35:02 am",
+          "completed": true
+        },
+        {
+          "status": "DELIVERED",
+          "title": "Delivered",
+          "description": "Handed over to customer.",
+          "timestamp": "20/10/2026, 10:35:27 am",
+          "completed": true
+        }
+      ],
+      "createdAt": "2026-10-20T05:04:31.452Z"
+    },
+    {
+      "id": "ord-1792472336892",
+      "orderNumber": "SS-ORD-6560",
+      "userId": "usr-1792148188845",
+      "userEmail": "skenwat367@gmail.com",
+      "userName": "Santosh Kumar Kenwat",
+      "items": [
+        {
+          "id": "item-1792472293915-8wml",
+          "productId": "prod-8",
+          "product": {
+            "id": "prod-8",
+            "name": "Roopmati Rani Pink Paithani Pure Silk Saree",
+            "slug": "roopmati-rani-pink-paithani-pure-silk-saree",
+            "price": 31999,
+            "originalPrice": 42000,
+            "discountPercent": 24,
+            "description": "Prestigious Yeola Paithani handloom saree in radiant rani pink silk with signature kaleidoscopic peacock (morpankhi) pallu woven in genuine gold zari and oblique kaleidoscopic border.",
+            "category": "bridal-heritage",
+            "fabric": "Pure Silk",
+            "color": "Rani Pink & Gold",
+            "colorHex": "#c2185b",
+            "occasion": "Bridal & Wedding",
+            "stock": 3,
+            "sku": "SS-PAI-008",
+            "images": [
+              "/src/assets/images/hero_banarasi_bridal_1791698980254.jpg",
+              "/src/assets/images/saree_kanjivaram_gold_1791698990300.jpg"
+            ],
+            "rating": 5,
+            "reviewsCount": 38,
+            "isFeatured": true,
+            "isBestSeller": true,
+            "isNewArrival": false,
+            "blousePieceIncluded": true,
+            "sareeLength": "5.5 meters saree + 0.8 meter unstitched blouse piece",
+            "careInstructions": "Specialist dry clean only. Store in pure cotton bag.",
+            "weavingTechnique": "Kadwa Brocade",
+            "artisan": "Yeola Paithani Artisan Guild, Maharashtra",
+            "specifications": {
+              "Weave": "Tapestry Weave with Real Zari Pallu",
+              "Origin": "Yeola, Maharashtra",
+              "Zari": "Pure Metallic Gold Tested Zari",
+              "Weight": "940 grams",
+              "Blouse": "Rani pink silk with peacock border"
+            },
+            "createdAt": "2026-10-08T10:00:00Z"
+          },
+          "quantity": 1,
+          "selectedBlouseOption": "Unstitched Fabric (Included)"
+        }
+      ],
+      "subtotal": 31999,
+      "discount": 0,
+      "shippingFee": 0,
+      "tax": 1600,
+      "totalAmount": 33599,
+      "paymentMethod": "UPI",
+      "paymentStatus": "PAID",
+      "orderStatus": "DELIVERED",
+      "shippingAddress": {
+        "id": "addr-1792148391164",
+        "fullName": "Santosh Kumar Kenwat",
+        "phone": "6267961163",
+        "alternatePhone": "",
+        "pincode": "495687",
+        "state": "Chhattisgarh",
+        "city": "Champa",
+        "locality": "Darang",
+        "addressLine": "Village -Darang , Post-Darang , Dist-Janjgir-Champa ,Chhattisgarh.",
+        "landmark": "Near Temple",
+        "isDefault": true,
+        "type": "HOME"
+      },
+      "trackingNumber": "UPI-EXP-9156022",
+      "courierPartner": "BlueDart Air Express",
+      "estimatedDelivery": "2026-10-24",
+      "timeline": [
+        {
+          "status": "PLACED",
+          "title": "UPI Payment Confirmed",
+          "description": "Payment captured via UPI (patron@ybl). Transaction Ref: UPI-TXN-1792472336854",
+          "timestamp": "20/10/2026, 10:28:56 am",
+          "completed": true
+        },
+        {
+          "status": "CONFIRMED",
+          "title": "Order Confirmed",
+          "description": "Direct priority packaging assigned.",
+          "timestamp": "20/10/2026, 10:32:41 am",
+          "completed": true
+        },
+        {
+          "status": "PACKED",
+          "title": "Packaging & Silk Mark Inspection",
+          "description": "Luxury muslin folding and Silk Mark verification.",
+          "timestamp": "Pending",
+          "completed": false
+        },
+        {
+          "status": "SHIPPED",
+          "title": "Dispatched with BlueDart Express",
+          "description": "Air express courier assigned.",
+          "timestamp": "20/10/2026, 10:33:33 am",
+          "completed": true
+        },
+        {
+          "status": "DELIVERED",
+          "title": "Delivered",
+          "description": "Handed over to customer.",
+          "timestamp": "20/10/2026, 10:35:07 am",
+          "completed": true
+        },
+        {
+          "status": "CANCELLED",
+          "title": "Order Cancelled by Customer",
+          "description": "Change of plan / Found another saree design",
+          "timestamp": "20/10/2026, 10:31:06 am",
+          "completed": true
+        }
+      ],
+      "createdAt": "2026-10-20T04:58:56.958Z"
+    },
+    {
+      "id": "ord-1792148396996",
+      "orderNumber": "SS-ORD-6916",
+      "userId": "usr-1792148188845",
+      "userEmail": "skenwat367@gmail.com",
+      "userName": "Santosh Kumar Kenwat",
+      "items": [
+        {
+          "id": "item-1792148373352-d3nu",
+          "productId": "prod-4",
+          "product": {
+            "id": "prod-4",
+            "name": "Neelambari Royal Blue Banarasi Georgette Jaal Saree",
+            "slug": "neelambari-royal-blue-banarasi-georgette-jaal-saree",
+            "price": 13999,
+            "originalPrice": 17999,
+            "discountPercent": 22,
+            "description": "Drape in royal luxury with this midnight navy blue pure Banarasi georgette saree. Adorned with intricate antique silver floral jaal weaving and scalloped pallu borders. Extremely supple, wrinkle-resistant, and photogenic.",
+            "category": "georgette-chiffon",
+            "fabric": "Georgette",
+            "color": "Royal Navy Blue & Silver",
+            "colorHex": "#14234b",
+            "occasion": "Party Wear",
+            "stock": 11,
+            "sku": "SS-GEO-004",
+            "images": [
+              "/src/assets/images/saree_banarasi_blue_1791699014715.jpg",
+              "/src/assets/images/hero_banarasi_bridal_1791698980254.jpg"
+            ],
+            "rating": 4.9,
+            "reviewsCount": 82,
+            "isFeatured": true,
+            "isBestSeller": true,
+            "isNewArrival": false,
+            "blousePieceIncluded": true,
+            "sareeLength": "5.5 meters saree + 0.8 meter unstitched blouse piece",
+            "careInstructions": "Dry clean only.",
+            "weavingTechnique": "Khaddi Georgette",
+            "artisan": "Banarasi Khaddi Georgette Weavers Collective",
+            "specifications": {
+              "Weave": "Banarasi Khaddi Georgette",
+              "Zari": "Antique Silver Rupa Zari",
+              "Origin": "Varanasi, Uttar Pradesh",
+              "Weight": "620 grams",
+              "Blouse": "Navy brocade with matching border"
+            },
+            "createdAt": "2026-09-25T10:00:00Z"
+          },
+          "quantity": 1,
+          "selectedBlouseOption": "Unstitched Fabric (Included)"
+        }
+      ],
+      "subtotal": 13999,
+      "discount": 0,
+      "shippingFee": 0,
+      "tax": 700,
+      "totalAmount": 14699,
+      "paymentMethod": "COD",
+      "paymentStatus": "PENDING",
+      "orderStatus": "CANCELLED",
+      "shippingAddress": {
+        "fullName": "Santosh Kumar Kenwat",
+        "phone": "6267961163",
+        "pincode": "495687",
+        "state": "Chhattisgarh",
+        "city": "Champa",
+        "locality": "darang",
+        "addressLine": "Village -Darang , Post-Darang , Dist-Janjgir-Champa ,Chhattisgarh.",
+        "type": "HOME",
+        "isDefault": false,
+        "id": "addr-1792148391164"
+      },
+      "trackingNumber": "COD-IN-8163625",
+      "courierPartner": "Delhivery Surface",
+      "estimatedDelivery": "2026-10-22",
+      "timeline": [
+        {
+          "status": "PLACED",
+          "title": "COD Order Placed",
+          "description": "Order placed successfully. Payment will be collected at doorstep delivery.",
+          "timestamp": "16/10/2026, 10:59:56 am",
+          "completed": true
+        },
+        {
+          "status": "CONFIRMED",
+          "title": "Order Verified",
+          "description": "Master handloom inventory reserved.",
+          "timestamp": "16/10/2026, 10:59:56 am",
+          "completed": true
+        },
+        {
+          "status": "PACKED",
+          "title": "Silk Mark Inspection",
+          "description": "Folded in muslin cloth and packed in luxury gift box.",
+          "timestamp": "Pending",
+          "completed": false
+        },
+        {
+          "status": "SHIPPED",
+          "title": "Dispatched with Courier",
+          "description": "Package in transit with courier partner.",
+          "timestamp": "Pending",
+          "completed": false
+        },
+        {
+          "status": "DELIVERED",
+          "title": "Doorstep Delivery",
+          "description": "Delivered and cash payment collected.",
+          "timestamp": "Pending",
+          "completed": false
+        },
+        {
+          "status": "CANCELLED",
+          "title": "Order Cancelled by Customer",
+          "description": "Ordered by mistake",
+          "timestamp": "16/10/2026, 11:02:36 am",
+          "completed": true
+        }
+      ],
+      "createdAt": "2026-10-16T10:59:56.996Z"
+    },
+    {
+      "id": "ord-1791964698249",
+      "orderNumber": "SS-ORD-9255",
+      "userId": "usr-test-user",
+      "userEmail": "customer.test@example.com",
+      "userName": "Kavita Devi",
+      "items": [
+        {
+          "productId": "prod-1",
+          "quantity": 1,
+          "product": {
+            "id": "prod-1",
+            "name": "Shahi Dulhan Crimson Banarasi Katan Silk Saree",
+            "price": 18499,
+            "fabric": "Banarasi Silk"
+          }
+        }
+      ],
+      "subtotal": 18499,
+      "discount": 0,
+      "shippingFee": 0,
+      "tax": 924,
+      "totalAmount": 19423,
+      "paymentMethod": "COD",
+      "paymentStatus": "PENDING",
+      "orderStatus": "SHIPPED",
+      "shippingAddress": {
+        "fullName": "Kavita Devi",
+        "phone": "9876543210",
+        "city": "Varanasi",
+        "state": "Uttar Pradesh",
+        "pincode": "221001",
+        "addressLine": "House 45, Assi Ghat Road"
+      },
+      "trackingNumber": "COD-IN-8511013",
+      "courierPartner": "Delhivery Surface",
+      "estimatedDelivery": "2026-10-20",
+      "timeline": [
+        {
+          "status": "PLACED",
+          "title": "COD Order Placed",
+          "description": "Order placed successfully. Payment will be collected at doorstep delivery.",
+          "timestamp": "14/10/2026, 7:58:18 am",
+          "completed": true
+        },
+        {
+          "status": "CONFIRMED",
+          "title": "Order Verified",
+          "description": "Master handloom inventory reserved.",
+          "timestamp": "15/10/2026, 11:24:22 am",
+          "completed": true
+        },
+        {
+          "status": "PACKED",
+          "title": "Silk Mark Inspection",
+          "description": "Folded in muslin cloth and packed in luxury gift box.",
+          "timestamp": "Pending",
+          "completed": false
+        },
+        {
+          "status": "SHIPPED",
+          "title": "Dispatched with Courier",
+          "description": "Package in transit with courier partner.",
+          "timestamp": "16/10/2026, 10:57:26 am",
+          "completed": true
+        },
+        {
+          "status": "DELIVERED",
+          "title": "Doorstep Delivery",
+          "description": "Delivered and cash payment collected.",
+          "timestamp": "Pending",
+          "completed": false
+        },
+        {
+          "status": "CANCELLED",
+          "title": "Order Cancelled by Customer",
+          "description": "Change of plan / Found another saree design",
+          "timestamp": "14/10/2026, 7:58:27 am",
+          "completed": true
+        }
+      ],
+      "createdAt": "2026-10-14T07:58:18.255Z"
+    },
+    {
+      "id": "ord-1791875640765",
+      "orderNumber": "SS-ORD-2794",
+      "userId": "usr-1791875619329",
+      "userEmail": "anjali.verma@example.com",
+      "userName": "Anjali Verma",
+      "items": [
+        {
+          "productId": "prod-1",
+          "quantity": 1,
+          "product": {
+            "name": "Shahi Dulhan Crimson Banarasi Katan Silk Saree",
+            "price": 18499
+          }
+        }
+      ],
+      "subtotal": 18499,
+      "discount": 0,
+      "shippingFee": 0,
+      "tax": 924,
+      "totalAmount": 19423,
+      "paymentMethod": "COD",
+      "paymentStatus": "PENDING",
+      "orderStatus": "SHIPPED",
+      "shippingAddress": {
+        "fullName": "Anjali Verma",
+        "phone": "9812345678",
+        "city": "Delhi",
+        "addressLine": "House 12, Janakpuri",
+        "pincode": "110058"
+      },
+      "trackingNumber": "COD-IN-3336983",
+      "courierPartner": "Delhivery Surface",
+      "estimatedDelivery": "2026-10-19",
+      "timeline": [
+        {
+          "status": "PLACED",
+          "title": "COD Order Placed",
+          "description": "Payment will be collected upon doorstep delivery.",
+          "timestamp": "13/10/2026, 7:14:00 am",
+          "completed": true
+        },
+        {
+          "status": "CONFIRMED",
+          "title": "Order Confirmed",
+          "description": "Patron order verified.",
+          "timestamp": "13/10/2026, 7:14:00 am",
+          "completed": true
+        },
+        {
+          "status": "PACKED",
+          "title": "Silk Mark Inspection",
+          "description": "Packed in signature luxury gift box.",
+          "timestamp": "Pending",
+          "completed": false
+        },
+        {
+          "status": "SHIPPED",
+          "title": "Dispatched",
+          "description": "Handed over to delivery agent.",
+          "timestamp": "15/10/2026, 11:24:25 am",
+          "completed": true
+        },
+        {
+          "status": "DELIVERED",
+          "title": "Delivered",
+          "description": "Delivered and payment collected.",
+          "timestamp": "Pending",
+          "completed": false
+        },
+        {
+          "status": "CANCELLED",
+          "title": "Order Cancelled",
+          "description": "Test Cancel",
+          "timestamp": "14/10/2026, 7:50:14 am",
+          "completed": true
+        }
+      ],
+      "createdAt": "2026-10-13T07:14:00.774Z"
+    },
+    {
+      "id": "ord-1042",
+      "orderNumber": "SS-ORD-9281",
+      "userId": "usr-customer-1",
+      "userEmail": "priyanka@sareesansar.com",
+      "userName": "Priyanka Sharma",
+      "items": [
+        {
+          "id": "ci-1",
+          "productId": "prod-1",
+          "product": {
+            "id": "prod-1",
+            "name": "Shahi Dulhan Crimson Banarasi Katan Silk Saree",
+            "slug": "shahi-dulhan-crimson-banarasi-katan-silk-saree",
+            "price": 18499,
+            "originalPrice": 24999,
+            "discountPercent": 26,
+            "description": "A masterpiece from the master looms of Varanasi. Handcrafted in pure Katan silk with intricate antique gold zardosi border and floral jaal detailing across the body. Designed for bridal grace and regal celebrations.",
+            "category": "banarasi-silk",
+            "fabric": "Banarasi Silk",
+            "color": "Crimson Maroon & Gold",
+            "colorHex": "#6b1426",
+            "occasion": "Bridal & Wedding",
+            "stock": 8,
+            "sku": "SS-BAN-001",
+            "images": [
+              "/src/assets/images/hero_banarasi_bridal_1791698980254.jpg",
+              "/src/assets/images/saree_kanjivaram_gold_1791698990300.jpg"
+            ],
+            "rating": 4.9,
+            "reviewsCount": 128,
+            "isFeatured": true,
+            "isBestSeller": true,
+            "isNewArrival": false,
+            "blousePieceIncluded": true,
+            "sareeLength": "5.5 meters saree + 0.8 meter unstitched blouse piece",
+            "careInstructions": "Strictly dry clean only. Wrap in muslin cloth when storing.",
+            "specifications": {
+              "Weave": "Handloom Katan Weave",
+              "Zari": "Antique Gold Tested Zari",
+              "Origin": "Varanasi, Uttar Pradesh",
+              "Weight": "880 grams",
+              "Blouse": "Matching heavy woven brocade"
+            },
+            "createdAt": "2026-09-01T10:00:00Z"
+          },
+          "quantity": 1
+        }
+      ],
+      "subtotal": 18499,
+      "discount": 1500,
+      "couponCode": "ROYAL15",
+      "shippingFee": 0,
+      "tax": 918,
+      "totalAmount": 17917,
+      "paymentMethod": "RAZORPAY",
+      "paymentStatus": "PAID",
+      "razorpayPaymentId": "pay_K7q8mN2vP4z1L9",
+      "razorpayOrderId": "order_M8n2kL90pQ7vX2",
+      "orderStatus": "SHIPPED",
+      "shippingAddress": {
+        "id": "addr-1",
+        "fullName": "Priyanka Sharma",
+        "phone": "9876543210",
+        "pincode": "110001",
+        "state": "Delhi",
+        "city": "New Delhi",
+        "locality": "Connaught Place",
+        "addressLine": "Flat 402, Regalia Heights, Barakhamba Road",
+        "landmark": "Near Metro Gate 3",
+        "isDefault": true,
+        "type": "HOME"
+      },
+      "trackingNumber": "DEL-IND-8821092",
+      "courierPartner": "BlueDart Air Express",
+      "estimatedDelivery": "2026-10-14",
+      "timeline": [
+        {
+          "status": "PLACED",
+          "title": "Order Placed",
+          "description": "Payment verified via Razorpay Checkout.",
+          "timestamp": "2026-10-08 14:30",
+          "completed": true
+        },
+        {
+          "status": "CONFIRMED",
+          "title": "Order Confirmed",
+          "description": "Quality inspection passed by master weaver.",
+          "timestamp": "2026-10-09 10:15",
+          "completed": true
+        },
+        {
+          "status": "PACKED",
+          "title": "Safely Packaged",
+          "description": "Wrapped in royal muslin box with Silk Mark card.",
+          "timestamp": "2026-10-09 16:40",
+          "completed": true
+        },
+        {
+          "status": "SHIPPED",
+          "title": "Dispatched via BlueDart",
+          "description": "Waybill #DEL-IND-8821092 in transit to Delhi hub.",
+          "timestamp": "15/10/2026, 11:24:27 am",
+          "completed": true
+        },
+        {
+          "status": "OUT_FOR_DELIVERY",
+          "title": "Out for Delivery",
+          "description": "Courier agent will deliver with OTP confirmation.",
+          "timestamp": "Pending",
+          "completed": false
+        },
+        {
+          "status": "DELIVERED",
+          "title": "Delivered",
+          "description": "Handed over to customer.",
+          "timestamp": "Pending",
+          "completed": false
+        },
+        {
+          "status": "CANCELLED",
+          "title": "Order Cancelled",
+          "description": "Test cancellation",
+          "timestamp": "14/10/2026, 7:50:44 am",
+          "completed": true
+        }
+      ],
+      "createdAt": "2026-10-08T14:30:00Z"
+    }
+  ],
+  "coupons": [
+    {
+      "id": "c-1",
+      "code": "ROYAL15",
+      "description": "15% instant discount on orders above ₹4,999 (Max ₹1,500)",
+      "discountPercent": 15,
+      "minOrderValue": 4999,
+      "maxDiscount": 1500,
+      "expiryDate": "2026-12-31",
+      "isActive": true
+    },
+    {
+      "id": "c-2",
+      "code": "FIRST10",
+      "description": "Welcome special: 10% off on your maiden ethnic order",
+      "discountPercent": 10,
+      "minOrderValue": 2000,
+      "maxDiscount": 1000,
+      "expiryDate": "2026-12-31",
+      "isActive": true
+    },
+    {
+      "id": "c-3",
+      "code": "FESTIVE500",
+      "description": "Flat ₹500 discount on orders above ₹3,000",
+      "discountAmount": 500,
+      "minOrderValue": 3000,
+      "expiryDate": "2026-12-31",
+      "isActive": true
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev-1791890918199",
+      "sareeId": "prod-1",
+      "userId": "usr-1791890918199",
+      "userName": "Pooja Malhotra",
+      "userEmail": "pooja.m@example.com",
+      "rating": 5,
+      "title": "Pure Heirloom Royalty!",
+      "comment": "The fabric texture is exceptionally rich and the unstitched blouse piece matches the pallu border perfectly.",
+      "verifiedPurchase": true,
+      "helpfulVotes": 0,
+      "images": [],
+      "createdAt": "2026-10-13T11:28:38.199Z"
+    },
+    {
+      "id": "rev-1",
+      "sareeId": "prod-1",
+      "userId": "usr-customer-1",
+      "userName": "Radhika Kulkarni",
+      "userEmail": "radhika.k@gmail.com",
+      "rating": 5,
+      "title": "Heirloom Masterpiece for My Wedding Trousseau!",
+      "comment": "Wore this Shahi Dulhan Banarasi saree for my royal reception in Varanasi. The pure Mulberry Katan silk is surprisingly light yet majestic, and the antique gold zardosi border glowed gracefully under the lights. Worth every rupee!",
+      "verifiedPurchase": true,
+      "helpfulVotes": 14,
+      "images": [
+        "/src/assets/images/hero_banarasi_bridal_1791698980254.jpg"
+      ],
+      "createdAt": "2026-09-25T11:20:00Z"
+    },
+    {
+      "id": "rev-2",
+      "sareeId": "prod-1",
+      "userId": "usr-2",
+      "userName": "Meenakshi Sundaram",
+      "userEmail": "meenakshi.s@gmail.com",
+      "rating": 5,
+      "title": "Authentic Silk Mark Verified Pure Zari",
+      "comment": "Tested the silk threads and tested zari authenticity. The feel of handloom weave cannot be matched by powerlooms. Delivered in signature wooden luxury keepsake box with Silk Mark tag attached.",
+      "verifiedPurchase": true,
+      "helpfulVotes": 9,
+      "images": [],
+      "createdAt": "2026-10-02T16:45:00Z"
+    },
+    {
+      "id": "rev-3",
+      "sareeId": "prod-2",
+      "userId": "usr-3",
+      "userName": "Deepa Krishnan",
+      "userEmail": "deepa.k@yahoo.com",
+      "rating": 5,
+      "title": "Temple Korvai Border Perfection",
+      "comment": "The emerald green and ruby red temple contrast is breathtaking. The peacock (mayil) bootis are so sharp. Perfect for our family Karthigai Deepam pooja.",
+      "verifiedPurchase": true,
+      "helpfulVotes": 11,
+      "images": [
+        "/src/assets/images/saree_kanjivaram_gold_1791698990300.jpg"
+      ],
+      "createdAt": "2026-09-28T09:15:00Z"
+    },
+    {
+      "id": "rev-4",
+      "sareeId": "prod-3",
+      "userId": "usr-4",
+      "userName": "Ananya Roy",
+      "userEmail": "ananya.roy@outlook.com",
+      "rating": 5,
+      "title": "Ethereal Blush Pink Chanderi",
+      "comment": "Feather-light drape! I was able to carry it for 8 hours without feeling any weight. The golden ashrafi bootis look so delicate and classy.",
+      "verifiedPurchase": true,
+      "helpfulVotes": 7,
+      "images": [
+        "/src/assets/images/saree_chanderi_pastel_1791699001746.jpg"
+      ],
+      "createdAt": "2026-10-05T14:10:00Z"
+    }
+  ]
+}
