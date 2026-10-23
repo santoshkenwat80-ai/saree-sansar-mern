@@ -279,7 +279,7 @@
       "color": "Rani Pink & Gold",
       "colorHex": "#c2185b",
       "occasion": "Bridal & Wedding",
-      "stock": 1,
+      "stock": 0,
       "sku": "SS-PAI-008",
       "images": [
         "/src/assets/images/hero_banarasi_bridal_1791698980254.jpg",
@@ -372,6 +372,20 @@
       "createdAt": "2026-08-15T09:00:00Z",
       "addresses": [
         {
+          "id": "addr-1792472992291",
+          "fullName": "Sonu kenwat",
+          "phone": "6267948810",
+          "pincode": "495687",
+          "state": "Chattisgarh",
+          "city": "Janjgir-champa",
+          "locality": "Janjgir-champa",
+          "addressLine": "Village -Darang , Post-Darang , Dist-Janjgir-Champa ,Chhattisgarh.",
+          "landmark": "",
+          "isDefault": true,
+          "type": "HOME",
+          "_id": "6ad6f7a03d1c84a589d2dc8b"
+        },
+        {
           "id": "addr-1",
           "fullName": "Priyanka Sharma",
           "phone": "9876543210",
@@ -381,7 +395,7 @@
           "locality": "Connaught Place",
           "addressLine": "Flat 402, Regalia Heights, Barakhamba Road",
           "landmark": "Near Metro Gate 3",
-          "isDefault": true,
+          "isDefault": false,
           "type": "HOME"
         }
       ]
@@ -535,6 +549,122 @@
     }
   ],
   "orders": [
+    {
+      "id": "ord-1792751542599",
+      "orderNumber": "SS-ORD-3825",
+      "userId": "usr-customer-1",
+      "userEmail": "sonukenwat1234@gmail.com",
+      "userName": "Sonu kenwat",
+      "items": [
+        {
+          "id": "item-1792751535469-f0bp",
+          "productId": "prod-8",
+          "product": {
+            "id": "prod-8",
+            "name": "Roopmati Rani Pink Paithani Pure Silk Saree",
+            "slug": "roopmati-rani-pink-paithani-pure-silk-saree",
+            "price": 31999,
+            "originalPrice": 42000,
+            "discountPercent": 24,
+            "description": "Prestigious Yeola Paithani handloom saree in radiant rani pink silk with signature kaleidoscopic peacock (morpankhi) pallu woven in genuine gold zari and oblique kaleidoscopic border.",
+            "category": "bridal-heritage",
+            "fabric": "Pure Silk",
+            "color": "Rani Pink & Gold",
+            "colorHex": "#c2185b",
+            "occasion": "Bridal & Wedding",
+            "stock": 1,
+            "sku": "SS-PAI-008",
+            "images": [
+              "/src/assets/images/hero_banarasi_bridal_1791698980254.jpg",
+              "/src/assets/images/saree_kanjivaram_gold_1791698990300.jpg"
+            ],
+            "rating": 5,
+            "reviewsCount": 38,
+            "isFeatured": true,
+            "isBestSeller": true,
+            "isNewArrival": false,
+            "blousePieceIncluded": true,
+            "sareeLength": "5.5 meters saree + 0.8 meter unstitched blouse piece",
+            "careInstructions": "Specialist dry clean only. Store in pure cotton bag.",
+            "weavingTechnique": "Kadwa Brocade",
+            "artisan": "Yeola Paithani Artisan Guild, Maharashtra",
+            "specifications": {
+              "Weave": "Tapestry Weave with Real Zari Pallu",
+              "Origin": "Yeola, Maharashtra",
+              "Zari": "Pure Metallic Gold Tested Zari",
+              "Weight": "940 grams",
+              "Blouse": "Rani pink silk with peacock border"
+            },
+            "createdAt": "2026-10-08T10:00:00Z"
+          },
+          "quantity": 1,
+          "selectedBlouseOption": "Unstitched Fabric (Included)"
+        }
+      ],
+      "subtotal": 31999,
+      "discount": 0,
+      "shippingFee": 0,
+      "tax": 1600,
+      "totalAmount": 33599,
+      "paymentMethod": "UPI",
+      "paymentStatus": "PAID",
+      "orderStatus": "SHIPPED",
+      "shippingAddress": {
+        "id": "addr-1792472992291",
+        "fullName": "Sonu kenwat",
+        "phone": "6267948810",
+        "pincode": "495687",
+        "state": "Chattisgarh",
+        "city": "Janjgir-champa",
+        "locality": "Janjgir-champa",
+        "addressLine": "Village -Darang , Post-Darang , Dist-Janjgir-Champa ,Chhattisgarh.",
+        "landmark": "",
+        "isDefault": true,
+        "type": "HOME",
+        "_id": "6ad6f7a03d1c84a589d2dc8b"
+      },
+      "trackingNumber": "UPI-EXP-7295740",
+      "courierPartner": "BlueDart Air Express",
+      "estimatedDelivery": "2026-10-27",
+      "timeline": [
+        {
+          "status": "PLACED",
+          "title": "UPI Payment Confirmed",
+          "description": "Payment captured via UPI (patron@ybl). Transaction Ref: UPI-TXN-1792751542583",
+          "timestamp": "23/10/2026, 4:02:22 pm",
+          "completed": true
+        },
+        {
+          "status": "CONFIRMED",
+          "title": "Order Confirmed",
+          "description": "Direct priority packaging assigned.",
+          "timestamp": "23/10/2026, 4:02:22 pm",
+          "completed": true
+        },
+        {
+          "status": "PACKED",
+          "title": "Packaging & Silk Mark Inspection",
+          "description": "Luxury muslin folding and Silk Mark verification.",
+          "timestamp": "Pending",
+          "completed": false
+        },
+        {
+          "status": "SHIPPED",
+          "title": "Dispatched with BlueDart Express",
+          "description": "Air express courier assigned.",
+          "timestamp": "23/10/2026, 4:02:40 pm",
+          "completed": true
+        },
+        {
+          "status": "DELIVERED",
+          "title": "Delivered",
+          "description": "Handed over to customer.",
+          "timestamp": "Pending",
+          "completed": false
+        }
+      ],
+      "createdAt": "2026-10-23T10:32:22.833Z"
+    },
     {
       "id": "ord-1792649071573",
       "orderNumber": "SS-ORD-9478",
