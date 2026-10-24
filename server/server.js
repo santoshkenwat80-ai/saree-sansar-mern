@@ -27,6 +27,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 // REST API Endpoints
+
 app.use('/api/auth', authRoutes);
 app.use('/api/products', productRoutes);
 app.use('/api/sarees', sareeRoutes);
@@ -37,7 +38,12 @@ app.use('/api/orders', orderRoutes);
 app.use('/api/payments', paymentRoutes);
 app.use('/api/admin', adminRoutes);
 
-app.get('/api/health', (req, res) => {
+
+app.get("/", (req, res) => {
+  res.status(200).send("Saree Sansar Backend is running!");
+});
+
+app.get("/", (req, res) => {
   res.json({
     status: 'ok',
     service: 'Saree Sansar Pure JavaScript MERN Backend',

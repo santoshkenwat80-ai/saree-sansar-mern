@@ -89,7 +89,7 @@
       "color": "Blush Rose Pink",
       "colorHex": "#d89ba6",
       "occasion": "Party Wear",
-      "stock": 13,
+      "stock": 12,
       "sku": "SS-CHA-003",
       "images": [
         "/src/assets/images/saree_chanderi_pastel_1791699001746.jpg",
@@ -241,7 +241,7 @@
       "color": "Ivory White & Gold",
       "colorHex": "#fcf8ec",
       "occasion": "Casual",
-      "stock": 10,
+      "stock": 0,
       "sku": "SS-JAM-007",
       "images": [
         "/src/assets/images/saree_chanderi_pastel_1791699001746.jpg",
@@ -550,6 +550,238 @@
   ],
   "orders": [
     {
+      "id": "ord-1792755288219",
+      "orderNumber": "SS-ORD-2401",
+      "userId": "usr-customer-1",
+      "userEmail": "sonukenwat1234@gmail.com",
+      "userName": "Sonu kenwat",
+      "items": [
+        {
+          "id": "item-1792755282916-3wj4",
+          "productId": "prod-3",
+          "product": {
+            "id": "prod-3",
+            "name": "Gulabi Meera Pastel Tissue Chanderi Saree",
+            "slug": "gulabi-meera-pastel-tissue-chanderi-saree",
+            "price": 7499,
+            "originalPrice": 9999,
+            "discountPercent": 25,
+            "description": "Whisper-light Chanderi tissue silk saree in ethereal blush rose pink. Featuring miniature gold ashrafi bootis scattered throughout with a soft scalloped zari border. Effortlessly graceful for summer weddings and daytime receptions.",
+            "category": "chanderi-organza",
+            "fabric": "Chanderi",
+            "color": "Blush Rose Pink",
+            "colorHex": "#d89ba6",
+            "occasion": "Party Wear",
+            "stock": 13,
+            "sku": "SS-CHA-003",
+            "images": [
+              "/src/assets/images/saree_chanderi_pastel_1791699001746.jpg",
+              "/src/assets/images/saree_banarasi_blue_1791699014715.jpg"
+            ],
+            "rating": 4.8,
+            "reviewsCount": 67,
+            "isFeatured": true,
+            "isBestSeller": false,
+            "isNewArrival": true,
+            "blousePieceIncluded": true,
+            "sareeLength": "5.5 meters saree + 0.8 meter unstitched blouse piece",
+            "careInstructions": "Dry clean recommended. Gentle hand steam ironing.",
+            "weavingTechnique": "Chanderi Pattu & Gossamer",
+            "artisan": "Chanderi Heritage Weaver Society, Madhya Pradesh",
+            "specifications": {
+              "Weave": "Fine Handwoven Chanderi Pattu",
+              "Zari": "Light Gold Muted Sheen",
+              "Origin": "Chanderi, Madhya Pradesh",
+              "Weight": "450 grams",
+              "Blouse": "Tonal silk with booti work"
+            },
+            "createdAt": "2026-09-20T10:00:00Z"
+          },
+          "quantity": 1,
+          "selectedBlouseOption": "Unstitched Fabric (Included)"
+        }
+      ],
+      "subtotal": 7499,
+      "discount": 0,
+      "shippingFee": 0,
+      "tax": 375,
+      "totalAmount": 7874,
+      "paymentMethod": "UPI",
+      "paymentStatus": "PAID",
+      "orderStatus": "DELIVERED",
+      "shippingAddress": {
+        "id": "addr-1792472992291",
+        "fullName": "Sonu kenwat",
+        "phone": "6267948810",
+        "pincode": "495687",
+        "state": "Chattisgarh",
+        "city": "Janjgir-champa",
+        "locality": "Janjgir-champa",
+        "addressLine": "Village -Darang , Post-Darang , Dist-Janjgir-Champa ,Chhattisgarh.",
+        "landmark": "",
+        "isDefault": true,
+        "type": "HOME",
+        "_id": "6ad6f7a03d1c84a589d2dc8b"
+      },
+      "trackingNumber": "UPI-EXP-4111320",
+      "courierPartner": "BlueDart Air Express",
+      "estimatedDelivery": "2026-10-27",
+      "timeline": [
+        {
+          "status": "PLACED",
+          "title": "UPI Payment Confirmed",
+          "description": "Payment captured via UPI (sareesansar@okaxis). Transaction Ref: UPI-TXN-1792755288179",
+          "timestamp": "23/10/2026, 5:04:48 pm",
+          "completed": true
+        },
+        {
+          "status": "CONFIRMED",
+          "title": "Order Confirmed",
+          "description": "Direct priority packaging assigned.",
+          "timestamp": "23/10/2026, 5:04:48 pm",
+          "completed": true
+        },
+        {
+          "status": "PACKED",
+          "title": "Packaging & Silk Mark Inspection",
+          "description": "Luxury muslin folding and Silk Mark verification.",
+          "timestamp": "Pending",
+          "completed": false
+        },
+        {
+          "status": "SHIPPED",
+          "title": "Dispatched with BlueDart Express",
+          "description": "Air express courier assigned.",
+          "timestamp": "Pending",
+          "completed": false
+        },
+        {
+          "status": "DELIVERED",
+          "title": "Delivered",
+          "description": "Handed over to customer.",
+          "timestamp": "23/10/2026, 6:17:45 pm",
+          "completed": true
+        }
+      ],
+      "createdAt": "2026-10-23T11:34:48.297Z"
+    },
+    {
+      "id": "ord-1792752673676",
+      "orderNumber": "SS-ORD-3862",
+      "userId": "usr-customer-1",
+      "userEmail": "sonukenwat1234@gmail.com",
+      "userName": "Sonu kenwat",
+      "items": [
+        {
+          "id": "item-1792752660015-i7uo",
+          "productId": "prod-7",
+          "product": {
+            "id": "prod-7",
+            "name": "Padmavati Ivory Jamdani Muslin Handloom Cotton Saree",
+            "slug": "padmavati-ivory-jamdani-muslin-handloom-cotton-saree",
+            "price": 6899,
+            "originalPrice": 9499,
+            "discountPercent": 27,
+            "description": "Authentic Jamdani hand-woven muslin cotton saree in celestial ivory white with antique gold thread floral vine motifs. Featherlight, breathable, and woven on traditional pit looms.",
+            "category": "handloom-cotton",
+            "fabric": "Cotton Silk",
+            "color": "Ivory White & Gold",
+            "colorHex": "#fcf8ec",
+            "occasion": "Casual",
+            "stock": 10,
+            "sku": "SS-JAM-007",
+            "images": [
+              "/src/assets/images/saree_chanderi_pastel_1791699001746.jpg",
+              "/src/assets/images/hero_banarasi_bridal_1791698980254.jpg"
+            ],
+            "rating": 4.8,
+            "reviewsCount": 52,
+            "isFeatured": true,
+            "isBestSeller": false,
+            "isNewArrival": true,
+            "blousePieceIncluded": true,
+            "sareeLength": "5.5 meters saree + 0.8 meter unstitched blouse piece",
+            "careInstructions": "Gentle hand wash in cold water or dry clean.",
+            "weavingTechnique": "Jamdani Handloom",
+            "artisan": "Bengal Jamdani Artisan Cooperative",
+            "specifications": {
+              "Weave": "Jamdani Supplementary Weft Handloom",
+              "Origin": "Phulia & Shantipur, West Bengal",
+              "Zari": "Fine Muted Gold Zari",
+              "Weight": "380 grams",
+              "Blouse": "Ivory cotton with gold border"
+            },
+            "createdAt": "2026-10-05T10:00:00Z"
+          },
+          "quantity": 10,
+          "selectedBlouseOption": "Unstitched Fabric (Included)"
+        }
+      ],
+      "subtotal": 68990,
+      "discount": 0,
+      "shippingFee": 0,
+      "tax": 3450,
+      "totalAmount": 72440,
+      "paymentMethod": "UPI",
+      "paymentStatus": "PAID",
+      "orderStatus": "DELIVERED",
+      "shippingAddress": {
+        "id": "addr-1792472992291",
+        "fullName": "Sonu kenwat",
+        "phone": "6267948810",
+        "pincode": "495687",
+        "state": "Chattisgarh",
+        "city": "Janjgir-champa",
+        "locality": "Janjgir-champa",
+        "addressLine": "Village -Darang , Post-Darang , Dist-Janjgir-Champa ,Chhattisgarh.",
+        "landmark": "",
+        "isDefault": true,
+        "type": "HOME",
+        "_id": "6ad6f7a03d1c84a589d2dc8b"
+      },
+      "trackingNumber": "UPI-EXP-6283490",
+      "courierPartner": "BlueDart Air Express",
+      "estimatedDelivery": "2026-10-27",
+      "timeline": [
+        {
+          "status": "PLACED",
+          "title": "UPI Payment Confirmed",
+          "description": "Payment captured via UPI (patron@ybl). Transaction Ref: UPI-TXN-1792752673667",
+          "timestamp": "23/10/2026, 4:21:13 pm",
+          "completed": true
+        },
+        {
+          "status": "CONFIRMED",
+          "title": "Order Confirmed",
+          "description": "Direct priority packaging assigned.",
+          "timestamp": "23/10/2026, 4:21:13 pm",
+          "completed": true
+        },
+        {
+          "status": "PACKED",
+          "title": "Packaging & Silk Mark Inspection",
+          "description": "Luxury muslin folding and Silk Mark verification.",
+          "timestamp": "Pending",
+          "completed": false
+        },
+        {
+          "status": "SHIPPED",
+          "title": "Dispatched with BlueDart Express",
+          "description": "Air express courier assigned.",
+          "timestamp": "23/10/2026, 5:04:54 pm",
+          "completed": true
+        },
+        {
+          "status": "DELIVERED",
+          "title": "Delivered",
+          "description": "Handed over to customer.",
+          "timestamp": "23/10/2026, 6:34:45 pm",
+          "completed": true
+        }
+      ],
+      "createdAt": "2026-10-23T10:51:13.922Z"
+    },
+    {
       "id": "ord-1792751542599",
       "orderNumber": "SS-ORD-3825",
       "userId": "usr-customer-1",
@@ -608,7 +840,7 @@
       "totalAmount": 33599,
       "paymentMethod": "UPI",
       "paymentStatus": "PAID",
-      "orderStatus": "SHIPPED",
+      "orderStatus": "DELIVERED",
       "shippingAddress": {
         "id": "addr-1792472992291",
         "fullName": "Sonu kenwat",
@@ -659,8 +891,8 @@
           "status": "DELIVERED",
           "title": "Delivered",
           "description": "Handed over to customer.",
-          "timestamp": "Pending",
-          "completed": false
+          "timestamp": "23/10/2026, 6:34:57 pm",
+          "completed": true
         }
       ],
       "createdAt": "2026-10-23T10:32:22.833Z"
@@ -768,7 +1000,7 @@
       "totalAmount": 40843,
       "paymentMethod": "UPI",
       "paymentStatus": "PAID",
-      "orderStatus": "SHIPPED",
+      "orderStatus": "DELIVERED",
       "shippingAddress": {
         "id": "addr-1792148391164",
         "fullName": "Santosh Kumar Kenwat",
@@ -819,8 +1051,8 @@
           "status": "DELIVERED",
           "title": "Delivered",
           "description": "Handed over to customer.",
-          "timestamp": "Pending",
-          "completed": false
+          "timestamp": "23/10/2026, 6:17:56 pm",
+          "completed": true
         }
       ],
       "createdAt": "2026-10-22T06:04:31.648Z"
@@ -884,7 +1116,7 @@
       "totalAmount": 7244,
       "paymentMethod": "UPI",
       "paymentStatus": "PAID",
-      "orderStatus": "DELIVERED",
+      "orderStatus": "OUT_FOR_DELIVERY",
       "shippingAddress": {
         "fullName": "Sonu kenwat",
         "phone": "6267948810",
