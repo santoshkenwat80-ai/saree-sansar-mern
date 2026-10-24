@@ -43,7 +43,7 @@ app.get("/", (req, res) => {
   res.status(200).send("Saree Sansar Backend is running!");
 });
 
-app.get("/", (req, res) => {
+app.get('/api/health', (req, res) => {
   res.json({
     status: 'ok',
     service: 'Saree Sansar Pure JavaScript MERN Backend',
